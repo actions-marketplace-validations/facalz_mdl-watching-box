@@ -1,0 +1,19 @@
+{
+  "name": "@facalz/mdl-watching-box",
+  "version": "1.0.0",
+  "description": "📺 Webscrap to show what you are watching in MyDramaList.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facalz/mdl-watching-box.git"
+  },
+  "author": "facalz <facal.git@gmail.com>",
+  "license": "APACHE-2.0",
+  "homepage": "https://github.com/facalz/mdl-watching-box#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.4",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.2"
+  }
+}
